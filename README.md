@@ -1,0 +1,2 @@
+# Task_Assistance_Gummachan_Localversion
+学習支援システムローカルバージョンです。
